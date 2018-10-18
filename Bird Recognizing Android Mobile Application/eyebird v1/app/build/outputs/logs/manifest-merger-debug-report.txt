@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:44:9-52:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:48:13-47
+	android:authorities
+		INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:46:13-60
+	android:exported
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:45:13-67
+manifest
+ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [com.android.support:design:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\design-25.1.1.aar\ff590c3daf77a3e1945107fb7ecef4b7\AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\AwesomeSplash-v1.0.0.aar\ef971eb2891737daa16f4ad13fc43395\AndroidManifest.xml:2:1-11:12
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\d13669443c558f10192559713ee613d1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\2f4d1b1852c5125b0b840b46f67de239\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\a91d1a43ad09c3b5dfbd5c98734efc0d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.1.aar\e9a6404054f8369e48050705a1ccb54d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\transition-25.1.1.aar\c2e0805a715b996c34967b3827936895\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\402be6f31b4669b5ec00dcfd13c17c3b\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\9f8dd0a14a67e2c46379c466c359a8a8\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\4b546bacc47af718974bf24927a44c1c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\20ebbcdba9c5bc09004ee80c56fff72b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\9301ba0bb362c7e2db6b45ca31029776\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\80833c3a21f7259295d64b193de1c18f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\d0f8a7e3172ae27140b422d35114eaad\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\4113e73b4f52f4562395c7f30e071416\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\550f312120f45ab981b19c4c4d221661\AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\41ae6995a66c95794304075a8ad30ccc\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:7:22-77
+application
+ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:10:5-54:19
+MERGED from [com.android.support:design:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\design-25.1.1.aar\ff590c3daf77a3e1945107fb7ecef4b7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\design-25.1.1.aar\ff590c3daf77a3e1945107fb7ecef4b7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\a91d1a43ad09c3b5dfbd5c98734efc0d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\a91d1a43ad09c3b5dfbd5c98734efc0d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\transition-25.1.1.aar\c2e0805a715b996c34967b3827936895\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\transition-25.1.1.aar\c2e0805a715b996c34967b3827936895\AndroidManifest.xml:22:5-20
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\402be6f31b4669b5ec00dcfd13c17c3b\AndroidManifest.xml:9:5-10:19
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\402be6f31b4669b5ec00dcfd13c17c3b\AndroidManifest.xml:9:5-10:19
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\9f8dd0a14a67e2c46379c466c359a8a8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\9f8dd0a14a67e2c46379c466c359a8a8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\4b546bacc47af718974bf24927a44c1c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\4b546bacc47af718974bf24927a44c1c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\20ebbcdba9c5bc09004ee80c56fff72b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\20ebbcdba9c5bc09004ee80c56fff72b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\9301ba0bb362c7e2db6b45ca31029776\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\9301ba0bb362c7e2db6b45ca31029776\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\80833c3a21f7259295d64b193de1c18f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\80833c3a21f7259295d64b193de1c18f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\d0f8a7e3172ae27140b422d35114eaad\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\d0f8a7e3172ae27140b422d35114eaad\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\4113e73b4f52f4562395c7f30e071416\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\4113e73b4f52f4562395c7f30e071416\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\550f312120f45ab981b19c4c4d221661\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\550f312120f45ab981b19c4c4d221661\AndroidManifest.xml:25:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\41ae6995a66c95794304075a8ad30ccc\AndroidManifest.xml:10:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\41ae6995a66c95794304075a8ad30ccc\AndroidManifest.xml:10:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.google.sample.cloudvision.Splashscreen
+ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:18:9-25:20
+	android:label
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:20:13-63
+	android:name
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.google.sample.cloudvision.MainActivity
+ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:29:9-42:20
+	android:screenOrientation
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:33:13-45
+	android:theme
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:32:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:36:13-40:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:39:27-73
+uses-sdk
+INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\design-25.1.1.aar\ff590c3daf77a3e1945107fb7ecef4b7\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\design-25.1.1.aar\ff590c3daf77a3e1945107fb7ecef4b7\AndroidManifest.xml:21:5-23:62
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\AwesomeSplash-v1.0.0.aar\ef971eb2891737daa16f4ad13fc43395\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\AwesomeSplash-v1.0.0.aar\ef971eb2891737daa16f4ad13fc43395\AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\d13669443c558f10192559713ee613d1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\d13669443c558f10192559713ee613d1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\2f4d1b1852c5125b0b840b46f67de239\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\2f4d1b1852c5125b0b840b46f67de239\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\a91d1a43ad09c3b5dfbd5c98734efc0d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\a91d1a43ad09c3b5dfbd5c98734efc0d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.1.aar\e9a6404054f8369e48050705a1ccb54d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.1.aar\e9a6404054f8369e48050705a1ccb54d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\transition-25.1.1.aar\c2e0805a715b996c34967b3827936895\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\transition-25.1.1.aar\c2e0805a715b996c34967b3827936895\AndroidManifest.xml:20:5-44
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\402be6f31b4669b5ec00dcfd13c17c3b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\402be6f31b4669b5ec00dcfd13c17c3b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\9f8dd0a14a67e2c46379c466c359a8a8\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\9f8dd0a14a67e2c46379c466c359a8a8\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\4b546bacc47af718974bf24927a44c1c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\4b546bacc47af718974bf24927a44c1c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\20ebbcdba9c5bc09004ee80c56fff72b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\20ebbcdba9c5bc09004ee80c56fff72b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\9301ba0bb362c7e2db6b45ca31029776\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\9301ba0bb362c7e2db6b45ca31029776\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\80833c3a21f7259295d64b193de1c18f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\80833c3a21f7259295d64b193de1c18f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\d0f8a7e3172ae27140b422d35114eaad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\d0f8a7e3172ae27140b422d35114eaad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\4113e73b4f52f4562395c7f30e071416\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\4113e73b4f52f4562395c7f30e071416\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\550f312120f45ab981b19c4c4d221661\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\550f312120f45ab981b19c4c4d221661\AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\41ae6995a66c95794304075a8ad30ccc\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\41ae6995a66c95794304075a8ad30ccc\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\Uthpala Jayawardena\.gradle\caches\transforms-1\files-1.1\design-25.1.1.aar\ff590c3daf77a3e1945107fb7ecef4b7\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:49:13-51:57
+	android:resource
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:51:17-55
+	android:name
+		ADDED from C:\Users\Uthpala Jayawardena\Desktop\project\eyebird v1\app\src\main\AndroidManifest.xml:50:17-67
